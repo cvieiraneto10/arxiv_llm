@@ -1,0 +1,4 @@
+#Ignorar pasta venv
+venv/
+#ignorar key.txt
+key.txt
