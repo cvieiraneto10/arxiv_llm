@@ -1,0 +1,10 @@
+- Projeto de Lei 2338/2023, de autoria do senador Rodrigo Pacheco (PSD-MG), dispõe sobre o uso de inteligência artificial no Brasil.
+- O objetivo da lei é proteger direitos fundamentais e garantir a implementação de sistemas de IA seguros e confiáveis, beneficiando a pessoa humana e o regime democrático.
+- A lei estabelece normas gerais de caráter nacional para a implementação do uso responsável de sistemas de IA.
+- Os fundamentos da lei incluem a centralidade da pessoa humana, respeito aos direitos humanos e aos valores democráticos, livre desenvolvimento da personalidade, proteção ao meio ambiente e desenvolvimento sustentável, igualdade e não discriminação, pluralidade e respeito aos direitos trabalhistas.
+- A lei promove o desenvolvimento tecnológico e a inovação, além de assegurar a livre iniciativa e livre concorrência, proteger a privacidade e a proteção de dados, promover a pesquisa e desenvolvimento com foco em estimular a inovação nos setores produtivos.
+- A implementação e uso de sistemas de IA devem observar princípios como crescimento inclusivo, desenvolvimento sustentável, bem-estar e liberdade de decisão, participação humana, supervisão humana efetiva, não discriminação, justiça e equidade, inclusão, transparência e auditabilidade.
+- Sistemas de IA devem seguir princípios de confiabilidade e robustez, segurança da informação, devido processo legal, contraditório e rastreabilidade das decisões.
+- A lei também aborda a no maleficência, definindo que os métodos empregados em sistemas de IA devem ter finalidades legítimas e não podem causar malefícios.
+- As definições incluem sistema de IA como um sistema computacional com diferentes graus de autonomia, projetado para inferir como atingir um conjunto de objetivos baseado em abordagens de aprendizado de máquina ou lógica de representação de conhecimento.
+- O fornecedor e o operador de sistemas de IA são definidos como entidades que podem ser pessoas naturais ou jurídicas, de natureza pública ou privada, que desenvolvem ou empregam sistemas de IA diretamente ou por encomenda para colocação no mercado ou sua aplicação em serviços sob seu próprio nome ou marca.

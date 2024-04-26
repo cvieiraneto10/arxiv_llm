@@ -1,7 +1,10 @@
 import maritalk
-from utils.search import *
+from utils.llm import *
+from utils.utils import *
 import time
 import pandas as pd
+import json
+
 
 
 #https://python.langchain.com/docs/integrations/chat/maritalk/
@@ -12,43 +15,16 @@ import pandas as pd
 #Editar aquivo venv\Lib\site-packages\requests\sessions.py; mudar verify = True para False
 
 
-def get_response(input_text:str, userkey:str):
-    model = maritalk.MariTalk(
-        key=userkey,
-        model="sabia-2-small"  # No momento, suportamos os modelos sabia-2-medium e sabia-2-small
-    )
+if __name__ == "__main__":
+    #Ler pdf
+    pdf_file = r'docs\PL_2338.pdf'
+    text = lerpdf(pdf_file)
+    #Salvar texto em json com utf-8
+    with open('docs/PL_2338.json', 'w', encoding='utf-8') as file:
+        json.dump(text, file, ensure_ascii=False)
 
-    response = model.generate(input_text)
-    answer = response["answer"]
-    return answer
+    resum = prompt_user(text, r'key.txt', max_lenght=3000)
 
-#Ler key from txt file
-def read_key():
-    with open('key.txt', 'r') as file:
-        key = file.read().replace('\n', '')
-    return key
-
-key = read_key()
-
-tema = str(input("Qual o tema da sua pesquisa?:\n"))
-# print(get_response("Qual é o seu nome?", key))
-inicio = time.time()
-docs=get_arxiv_docs(tema, 10)
-
-#Para cada artigo, criar um dataframe com os metadados e o resumo
-colunas = list(docs[0].metadata.keys()) + ['Summary']
-#Criar dicionário onde cada chave é uma coluna e o valor é uma lista vazia
-data = {coluna: [] for coluna in colunas}
-#Remover "Summary" da lista de colunas
-colunas.remove('Summary')
-
-for doc in docs:
-    data['Summary'].append(get_response(f"Resuma esse artigo em bullet points em português:\n {doc.page_content}", key))
-    for coluna in colunas:
-        data[coluna].append(doc.metadata[coluna])
-data = pd.DataFrame(data)
-data.to_excel('artigos.xlsx', index=False)
-# print(docs[0].metadata)
-# print(get_response(f"Resuma esse artigo em bullet points em português:\n {docs[0].page_content}", key))
-
-print("Tempo de execução: ", time.time()-inicio)
+    #Salvar resumo em txt utf-8
+    with open('docs/PL_2338_resumo.txt', 'w', encoding='utf-8') as file:
+        file.write(resum)
