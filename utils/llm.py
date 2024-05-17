@@ -10,7 +10,7 @@ def get_response(input_text:str, userkey:str):
         model="sabia-2-small"  # No momento, suportamos os modelos sabia-2-medium e sabia-2-small
     )
 
-    response = model.generate(input_text, max_tokens=2500, temperature=0.3)
+    response = model.generate(input_text, max_tokens=3500, temperature=0.3)
     answer = response["answer"]
     return answer
 

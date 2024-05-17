@@ -1,10 +1,13 @@
-- Projeto de Lei 2338/2023, de autoria do senador Rodrigo Pacheco (PSD-MG), dispõe sobre o uso de inteligência artificial no Brasil.
-- O objetivo da lei é proteger direitos fundamentais e garantir a implementação de sistemas de IA seguros e confiáveis, beneficiando a pessoa humana e o regime democrático.
+- Projeto de Lei no 2338/2023, de autoria do Senador Rodrigo Pacheco (PSD-MG), dispõe sobre o uso de inteligência artificial no Brasil.
+- O objetivo da lei é proteger direitos fundamentais e garantir a implementação de sistemas de inteligência artificial (IA) seguros e confiáveis, beneficiando a pessoa humana e o regime democrático.
 - A lei estabelece normas gerais de caráter nacional para a implementação do uso responsável de sistemas de IA.
-- Os fundamentos da lei incluem a centralidade da pessoa humana, respeito aos direitos humanos e aos valores democráticos, livre desenvolvimento da personalidade, proteção ao meio ambiente e desenvolvimento sustentável, igualdade e não discriminação, pluralidade e respeito aos direitos trabalhistas.
-- A lei promove o desenvolvimento tecnológico e a inovação, além de assegurar a livre iniciativa e livre concorrência, proteger a privacidade e a proteção de dados, promover a pesquisa e desenvolvimento com foco em estimular a inovação nos setores produtivos.
-- A implementação e uso de sistemas de IA devem observar princípios como crescimento inclusivo, desenvolvimento sustentável, bem-estar e liberdade de decisão, participação humana, supervisão humana efetiva, não discriminação, justiça e equidade, inclusão, transparência e auditabilidade.
-- Sistemas de IA devem seguir princípios de confiabilidade e robustez, segurança da informação, devido processo legal, contraditório e rastreabilidade das decisões.
-- A lei também aborda a no maleficência, definindo que os métodos empregados em sistemas de IA devem ter finalidades legítimas e não podem causar malefícios.
-- As definições incluem sistema de IA como um sistema computacional com diferentes graus de autonomia, projetado para inferir como atingir um conjunto de objetivos baseado em abordagens de aprendizado de máquina ou lógica de representação de conhecimento.
-- O fornecedor e o operador de sistemas de IA são definidos como entidades que podem ser pessoas naturais ou jurídicas, de natureza pública ou privada, que desenvolvem ou empregam sistemas de IA diretamente ou por encomenda para colocação no mercado ou sua aplicação em serviços sob seu próprio nome ou marca.
+- Os fundamentos da implementação de sistemas de IA no Brasil incluem a centralidade da pessoa humana, o respeito aos direitos humanos e aos valores democráticos, o livre desenvolvimento da personalidade, a proteção do meio ambiente e o desenvolvimento sustentável.
+- A lei promove a igualdade, a não discriminação e a pluralidade, além de respeitar os direitos trabalhistas e incentivar o desenvolvimento tecnológico e a inovação.
+- Princípios como livre iniciativa, livre concorrência e defesa do consumidor são observados, assim como a privacidade e a proteção de dados, com o objetivo de estimular a inovação nos setores produtivos.
+- A implementação de sistemas de IA deve observar princípios como crescimento inclusivo, desenvolvimento sustentável, bem-estar e liberdade de decisão.
+- A lei também aborda a participação humana, a supervisão humana efetiva, a não discriminação, a justiça e a equidade, a inclusão, a transparência e a auditabilidade dos sistemas de IA.
+- A confiabilidade e a robustez dos sistemas de IA, bem como a segurança da informação, são aspectos importantes.
+- O devido processo legal, o contraditório e a rastreabilidade das decisões são princípios a serem seguidos durante todo o ciclo de vida dos sistemas de IA.
+- A lei define sistema de IA como um sistema computacional com diferentes graus de autonomia, projetado para inferir como atingir um conjunto de objetivos usando abordagens baseadas em aprendizado de máquina e/ou lógica de representação de conhecimento.
+- O fornecedor e o operador de sistemas de IA são definidos, estabelecendo-se distinções entre as naturezas públicas e privadas, e entre sistemas desenvolvidos diretamente ou por encomenda para serem colocados no mercado ou para fornecer serviços sob o próprio nome ou marca.
+- A lei se aplica a sistemas de IA que possam influenciar ambientes virtuais ou reais e que sejam empregados com finalidades legítimas.
