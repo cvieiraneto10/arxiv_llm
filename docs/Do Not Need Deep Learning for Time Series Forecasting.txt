@@ -1,0 +1,18 @@
+- Autor: Jonte Dancker
+- Título: Por que atualmente não precisamos de aprendizado profundo para previsão de séries temporais
+- Data de Publicação: Junho de 2023
+- Fonte: Towards Data Science
+
+Principais pontos:
+- Atenção excessiva ao aprendizado profundo em previsão de séries temporais.
+- Artigos e papers destacam os últimos modelos de aprendizado profundo e sugerem que são melhores que os modelos estatísticos.
+- No entanto, o autor argumenta que não é necessário aprendizado profundo para previsão de séries temporais.
+- O autor recomenda aprender com as competições de Makridakis e o relatório de 2023 da Kaggle.
+- As competições de Makridakis mostraram a evolução dos métodos de previsão ao longo dos anos.
+- Inicialmente, os modelos estatísticos dominaram, seguidos por modelos baseados em competições que começaram a mostrar seu potencial.
+- Abordagens híbridas, que combinam modelos e métodos estatísticos, têm se destacado.
+- O relatório da Kaggle de 2023 contém ensaios escritos pela comunidade Kaggle, destacando as principais aprendizagens e tendências das soluções de alto desempenho.
+- As competições da Kaggle atraíram muitos participantes, o que pode explicar a superioridade dos resultados encontrados.
+- As competições de 2020 começaram a se tornar importantes, com abordagens híbridas se destacando.
+- Dois anos depois, as abordagens puras dominaram a competição, com métodos como árvores de gradiente (GBMs) sendo os mais bem-sucedidos nas competições da Kaggle.
+- Modelos como LightGBM, XGBoost e CatBoost têm se destacado por sua eficiência em lidar com muitas características, pouco pré-processamento e transformação de dados, e rapidez.

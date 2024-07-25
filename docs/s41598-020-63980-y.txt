@@ -1,0 +1,20 @@
+- Investigação sobre a eficácia da estimulação com batidas binaurais na aceleração do resultado do treinamento da "atenção seletiva" (atenção seletiva)
+- O estudo utilizou o paradigma da "atenção cega" (lapsus detectando o alvo rápido) em apresentação serial visual rápida (RSVP)
+- Participantes foram divididos em dois grupos, um para cada frequência de batidas binaurais (BB)
+- No primeiro dia, o Grupo 1 foi exposto a 40Hz de BB, enquanto o Grupo 2 foi exposto ao som de controle
+- No segundo dia, o Grupo 1 teve a frequência das BB revertida, enquanto o Grupo 2 manteve o som de controle
+- Registros MEG confirmaram forte sincronização das oscilações gama durante a estimulação de 40Hz e uma menor sincronização com 16Hz de BB
+- A performance não aumentou dentro das sessões, mas os participantes melhoraram entre as sessões, com melhoria geral igual em ambos os grupos
+- O Grupo 1 melhorou mais após o primeiro dia do que o segundo, enquanto o Grupo 2 teve melhoria maior após o segundo dia de estimulação com 16Hz
+- A conclusão é que a estimulação auditiva com BB durante o treinamento acelera o resultado do treinamento, mas a melhoria se torna evidente após a consolidação durante o sono
+- A estimulação com BB é promissora como um novo método não invasivo de estimulação cerebral para aprimorar o treinamento e a aprendizagem, especialmente em reabilitação
+- O estudo também investigou se a estimulação auditiva com BB durante o treinamento melhora o desempenho na detecção de alvos rapidamente apresentados em sequências de estímulos visuais
+- Métodos não invasivos de estimulação cerebral, como TMS e TDCS, têm mostrado melhorar os resultados de aprendizado e treinamento, mas os mecanismos subjacentes não são bem compreendidos
+- Sugere-se que a estimulação magnética/elétrica modula o potencial de membrana neural e causa efeitos inibitórios/excitatórios dependendo dos parâmetros do estímulo
+- A estimulação pode aumentar a eficácia sináptica através da potenciação de longo prazo (LTP), facilitando a plasticidade neural subjacente ao aprendizado
+- Uma abordagem recente para acelerar o aprendizado emprega estimulação cerebral não invasiva em conjunto com o treinamento de tarefas
+- O estudo atual usou o paradigma da "atenção cega" para investigar se a estimulação auditiva com BB durante o treinamento melhora o desempenho na detecção de alvos em sequências de estímulos visuais rapidamente apresentadas
+- A estimulação cerebral não invasiva usando TMS e TDCS tem mostrado melhorar os resultados de aprendizado e treinamento, mas os mecanismos subjacentes não são bem compreendidos
+- Sugere-se que a estimulação magnética/elétrica modula o potencial de membrana neural e causa efeitos inibitórios/excitatórios dependendo dos parâmetros do estímulo
+- A estimulação pode aumentar a eficácia sináptica através da potenciação de longo prazo (LTP), facilitando a plasticidade neural subjacente ao aprendizado
+- Uma abordagem recente para acelerar o aprendizado emprega estimulação cerebral não invasiva com a concepção de que a estimulação magnética/elétrica rítmica poderia sincronizar oscilações neurais em uma frequência específica, como as oscilações gama.
